@@ -26,8 +26,10 @@ hs_err_pid*
 .classpath
 .project
 .settings
-demo-crud/.classpath
+demo-mapstruct/.classpath
 
-demo-crud/.project
+demo-mapstruct/.project
 
-demo-crud/.settings/
+demo-mapstruct/.settings/
+
+demo-mapstruct/target/
