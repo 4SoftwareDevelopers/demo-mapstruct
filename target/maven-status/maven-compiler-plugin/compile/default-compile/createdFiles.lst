@@ -1,0 +1,10 @@
+com/example/demomapstruct/dto/PersonaDTO.class
+com/example/demomapstruct/mapper/PersonaMapper.class
+com/example/demomapstruct/mapper/EmpleadoMapper.class
+com/example/demomapstruct/mapper/EmpleadoMapperImpl.class
+com/example/demomapstruct/model/Persona.class
+com/example/demomapstruct/model/Sede.class
+com/example/demomapstruct/mapper/PersonaMapperImpl.class
+com/example/demomapstruct/dto/EmpleadoDTO.class
+com/example/demomapstruct/model/Empleado.class
+com/example/demomapstruct/dto/SedeDTO.class
